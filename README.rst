@@ -11,7 +11,7 @@ you decide on a trigger level for where to ask interactively.
 
 Example session::
 
- rrdclean.py myfile.rrd
+ $ rrdclean.py myfile.rrd
  Read 488 values (rest is NaN)
  154947.60044
  154947.60044
